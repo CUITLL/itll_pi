@@ -1,3 +1,5 @@
+# Example derived from source at https://www.raspinews.com/blinking-led-on-raspberry-pi-using-python
+
 import RPi.GPIO as GPIO
 import time
 
